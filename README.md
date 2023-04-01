@@ -17,7 +17,7 @@ Habilidades: Como detective. Intelecto nivel genio.​ Brillante estratega y acr
 
 ![Profile views](https://gpvc.arturio.dev/Grupo5gt)  
 
-#### Mlissa Gomez 
+#### Melissa Gomez 
 #### Juan Pablo Toro Martinez 
 #### Alejandro Martinez
 #### Esteban Benitez
