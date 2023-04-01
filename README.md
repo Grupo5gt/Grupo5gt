@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/126ub9tbJhoXh6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-arkham-knight-james-gordon-126ub9tbJhoXh6">via GIPHY</a></p>
+  <img src="<iframe src="https://giphy.com/embed/126ub9tbJhoXh6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batman-arkham-knight-james-gordon-126ub9tbJhoXh6">via GIPHY</a></p>" width="400"/>
+</div>
+
 ### Hola 👋, Batman Team
 
 #### Historia de Batman
@@ -16,8 +18,8 @@ Habilidades: Como detective. Intelecto nivel genio.​ Brillante estratega y acr
 ![Profile views](https://gpvc.arturio.dev/Grupo5gt)  
 
 #### Melissa Gomez 
-#### Juan Pablo Toro Martinez 
-#### Alejandro Martinez
-#### Esteban Benitez
+#### Juan Pablo Toro Martinez https://github.com/pablotoro2006
+#### Alejandro Martinez https://github.com/Alejomv
+#### Esteban Benitez 
 #### Juan Jose Puerta https://github.com/Imperialbeam777
 
