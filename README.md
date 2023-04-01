@@ -9,10 +9,17 @@ El multimillonario filántropo, Thomas Wayne, su esposa, Martha junto a su hijo 
 
 Habilidades: Como detective. Intelecto nivel genio.​ Brillante estratega y acróbata experto. Dominio de artes marciales y técnicas de sigilo e intimidación. Escapismo. Uso de equipamiento, dispositivos y armamento de alta tecnología.
 
-
+#### Descripcion del Proyecto 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grupo5gt)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Grupo5gt)  
 
 ![Profile views](https://gpvc.arturio.dev/Grupo5gt)  
+
+#### Mlissa Gomez 
+#### Juan Pablo Toro Martinez 
+#### Alejandro Martinez
+#### Esteban Benitez
+#### Juan Jose Puerta 
+
