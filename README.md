@@ -21,5 +21,5 @@ Habilidades: Como detective. Intelecto nivel genio.​ Brillante estratega y acr
 #### Juan Pablo Toro Martinez 
 #### Alejandro Martinez
 #### Esteban Benitez
-#### Juan Jose Puerta 
+#### Juan Jose Puerta https://github.com/Imperialbeam777
 
